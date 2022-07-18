@@ -1,7 +1,7 @@
 ### Hi, there! i a'm Victor Domingos.
 ° 
 
-i'm studying Web development 
+🚀 i'm studying Web development at Trybe
 
 <div align="center">
   <a href="https://github.com/VictorDmgs">
